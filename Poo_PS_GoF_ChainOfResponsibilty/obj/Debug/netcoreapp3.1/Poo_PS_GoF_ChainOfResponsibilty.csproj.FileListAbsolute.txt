@@ -1,0 +1,28 @@
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\bin\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.exe
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\bin\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.deps.json
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\bin\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.runtimeconfig.json
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\bin\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.runtimeconfig.dev.json
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\bin\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.dll
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\bin\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.pdb
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.csproj.AssemblyReference.cache
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.GeneratedMSBuildEditorConfig.editorconfig
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.AssemblyInfoInputs.cache
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.AssemblyInfo.cs
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.csproj.CoreCompileInputs.cache
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.dll
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.pdb
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.genruntimeconfig.cache
+C:\Users\user\Documents\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\bin\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.exe
+C:\Users\user\Documents\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\bin\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.deps.json
+C:\Users\user\Documents\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\bin\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.runtimeconfig.json
+C:\Users\user\Documents\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\bin\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.runtimeconfig.dev.json
+C:\Users\user\Documents\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\bin\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.dll
+C:\Users\user\Documents\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\bin\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.pdb
+C:\Users\user\Documents\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.AssemblyInfo.cs
+C:\Users\user\Documents\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.dll
+C:\Users\user\Documents\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.pdb
+C:\Users\user\Documents\Marin POO\Poo_PS_GoF_ChainOfResponsibilty\obj\Debug\netcoreapp3.1\Poo_PS_GoF_ChainOfResponsibilty.genruntimeconfig.cache
