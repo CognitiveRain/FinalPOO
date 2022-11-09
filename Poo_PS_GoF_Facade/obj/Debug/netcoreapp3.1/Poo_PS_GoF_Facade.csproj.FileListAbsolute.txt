@@ -1,0 +1,14 @@
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_Facade\bin\Debug\netcoreapp3.1\Poo_PS_GoF_Facade.exe
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_Facade\bin\Debug\netcoreapp3.1\Poo_PS_GoF_Facade.deps.json
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_Facade\bin\Debug\netcoreapp3.1\Poo_PS_GoF_Facade.runtimeconfig.json
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_Facade\bin\Debug\netcoreapp3.1\Poo_PS_GoF_Facade.runtimeconfig.dev.json
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_Facade\bin\Debug\netcoreapp3.1\Poo_PS_GoF_Facade.dll
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_Facade\bin\Debug\netcoreapp3.1\Poo_PS_GoF_Facade.pdb
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_Facade\obj\Debug\netcoreapp3.1\Poo_PS_GoF_Facade.csproj.AssemblyReference.cache
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_Facade\obj\Debug\netcoreapp3.1\Poo_PS_GoF_Facade.GeneratedMSBuildEditorConfig.editorconfig
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_Facade\obj\Debug\netcoreapp3.1\Poo_PS_GoF_Facade.AssemblyInfoInputs.cache
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_Facade\obj\Debug\netcoreapp3.1\Poo_PS_GoF_Facade.AssemblyInfo.cs
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_Facade\obj\Debug\netcoreapp3.1\Poo_PS_GoF_Facade.csproj.CoreCompileInputs.cache
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_Facade\obj\Debug\netcoreapp3.1\Poo_PS_GoF_Facade.dll
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_Facade\obj\Debug\netcoreapp3.1\Poo_PS_GoF_Facade.pdb
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Marin POO\Poo_PS_GoF_Facade\obj\Debug\netcoreapp3.1\Poo_PS_GoF_Facade.genruntimeconfig.cache
